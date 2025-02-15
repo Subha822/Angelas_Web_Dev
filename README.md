@@ -2,4 +2,4 @@
 
 DAY    | PROJECT NAME                          | Status                        | LINK
 -----  |---------------------------------------|-------------------------------| -------------
-Section 36 | KeeperApp                  | $${\color{green}Completed}$$  | [Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_01/Brand_Name_Generator.py)
+Section 36 | Keeper App                  | $${\color{green}Completed}$$  | [Link](https://angelaswebdev-production.up.railway.app/)
